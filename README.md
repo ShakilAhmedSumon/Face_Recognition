@@ -7,3 +7,5 @@ of the person inside it. Make at least two folders in the train directory.
 Give an image to the model to predict. Run this command:
 
              python3 face_recognition.py random.jpg
+ 
+random.jpg is the directory of the image to be detected.
